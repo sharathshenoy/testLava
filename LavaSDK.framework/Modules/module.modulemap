@@ -1,0 +1,10 @@
+framework module LavaSDK {
+  umbrella header "LavaSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module LavaSDK.Swift {
+    header "LavaSDK-Swift.h"
+}

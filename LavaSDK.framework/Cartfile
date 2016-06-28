@@ -1,0 +1,7 @@
+
+github "Alamofire/Alamofire"
+github "tristanhimmelman/AlamofireObjectMapper"
+github "Hearst-DD/ObjectMapper"
+github "DaveWoodCom/XCGLogger"
+github "ashleymills/Reachability.swift"
+github "Alamofire/AlamofireImage"
