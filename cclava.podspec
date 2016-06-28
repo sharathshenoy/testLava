@@ -8,7 +8,7 @@ s.summary = "Lava SDK."
 s.requires_arc = true
 
 # 2
-s.version = “0.3”
+s.version = “0.4”
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
@@ -20,7 +20,7 @@ s.author = { "sharath" => "sharath@codecraft.co.in" }
 s.homepage = "https://github.com/sharathshenoy/lava"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/sharathshenoy/lava", :tag => “0.3” }
+s.source = { :git => "https://github.com/sharathshenoy/lava", :tag => “0.4” }
 
 # 7
 s.framework = "UIKit"
